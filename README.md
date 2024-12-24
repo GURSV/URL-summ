@@ -1,3 +1,3 @@
 Install the requirements.txt file and run the application using 'streamlit run app.py'
 
-![image](https://github.com/user-attachments/assets/dab4ff81-8595-4e3d-913f-0e5ac5fa6a44)
+![image](https://github.com/user-attachments/assets/f39cbb08-c47b-4236-8343-308fef1dd122)

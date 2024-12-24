@@ -3,5 +3,5 @@ requests
 beautifulsoup4 
 openai 
 langchain
-transformers==4.47.1
+transformers>=4.0.0
 torch

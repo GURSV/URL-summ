@@ -1,0 +1,7 @@
+streamlit 
+requests 
+beautifulsoup4 
+openai 
+langchain
+transformers
+torch

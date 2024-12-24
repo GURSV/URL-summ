@@ -1,7 +1,7 @@
-streamlit
+streamlit>=1.29.0
 requests 
 beautifulsoup4 
 openai 
 langchain
 transformers>=4.0.0
-torch==2.5.1
+torch>=2.1.0

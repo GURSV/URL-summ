@@ -1,5 +1,3 @@
-channels:
-- conda-forge
 dependencies:
 - beautifulsoup4
 - langchain

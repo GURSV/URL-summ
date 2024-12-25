@@ -1,14 +1,1 @@
-dependencies:
-- beautifulsoup4
-- langchain
-- openai
-- requests
-- rich
-- streamlit
-- transformers
-- pip
-- pip:
-  - email
-  - smtplib
-  - torch
-name: env
+# Null

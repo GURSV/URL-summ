@@ -4,6 +4,4 @@ beautifulsoup4>=4.0.0
 transformers>=4.0.0
 torch>=1.0.0
 rich>=12.0.0
-smtplib  # This comes with Python standard library, no pip installation needed
-email  # Also part of Python standard library
-fontsource-iosevka  # For the Iosevka font
+python==3.11.4
